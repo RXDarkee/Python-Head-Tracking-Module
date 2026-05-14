@@ -34,7 +34,7 @@ Perfect for experiments, interactive installations, fun projects, or as a base f
 
 ### Install dependencies:
 ```bash
-git clone https://github.com/your-username/python-head-tracking-module.git
+git clone https://github.com/RXDarkee/python-head-tracking-module.git
 
 cd python-head-tracking-module
 
